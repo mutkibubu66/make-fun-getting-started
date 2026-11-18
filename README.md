@@ -1,10 +1,8 @@
 # make-fun-getting-started
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/YOUR-GITHUB-USERNAME/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/YOUR-GITHUB-USERNAME/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-
-<!-- NOTE TO THE AUTHOR: replace YOUR-GITHUB-USERNAME in the rank and reward badge URLs above with the GitHub username linked to the @mutkibubu make.fun account before submitting. The competition badge needs no owner. -->
+[![rank](https://make.fun/badge/bring-the-humans-02/mutkibubu66/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/mutkibubu66/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 > **Start here:** sign up with my referral link — [https://make.fun/r/ct1m5zev](https://make.fun/r/ct1m5zev) — and this guide will walk you through the rest.
 
